@@ -18,11 +18,14 @@ There are sites that have been omitted from this list due to political support.
 - https://mudjeans.com
 - https://huckberry.com
 - https://frankandoak.com
+- https://unboundmerino.com
 
 # Outdoor
 
 - https://www.backcountry.com
 - https://www.berghaus.com
+- https://ironandresin.com
+- https://www.fjallraven.com
 
 # Gifts
 
