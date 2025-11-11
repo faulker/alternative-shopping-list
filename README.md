@@ -17,7 +17,6 @@ There are sites that have been omitted from this list due to political support.
 - https://www.mrmarvis.com
 - https://mudjeans.com
 - https://huckberry.com
-- https://frankandoak.com
 - https://unboundmerino.com
 
 # Outdoor
